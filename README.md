@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EccentricEmilio
 - 👀 I’m interested in ... Programming games, learning useful modules proggraming languages!
-- 🌱 I’m currently learning ... Python and Pygame, using Pycharm as IDE, medium lvl. Looking to learn C# after this.
+- 🌱 I’m currently learning ... Web Stuff, HTML CSS and JS
 - 💞️ I’m looking to collaborate on ... Nothing... Right Now
 - 📫 How to reach me ... Nope
 
